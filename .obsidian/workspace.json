@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Veille/Ressources web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39a2ed0d35daeefd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/Algo/Algo 23-09-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#infra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/Algo/Algo 23-09-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md",
+                "file": "Cours/Algo/Algo 23-09-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cours/Algo/Algo 10-09-2024.md"
+                "file": "Cours/Algo/Algo 23-09-2024.md"
               }
             }
           }
@@ -159,15 +146,15 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "39a2ed0d35daeefd",
+  "active": "c373b9d5d8d9f061",
   "lastOpenFiles": [
-    "Algo - 2024-09-23.md",
     "Veille/Ressources web.md",
-    "README.md",
-    "Cours/Algo/Algo 10-09-2024.md",
-    "fonction.md",
+    "Algo - 2024-09-23.md",
+    "Cours/Algo/Algo 23-09-2024.md",
     "Cours/Module A/Séance 1.md",
     "Cours/Module A/Séance 2.md",
+    "README.md",
+    "fonction.md",
     "Cours/Algo",
     "Cours/Sans titre 1",
     "Cours/Module A",
