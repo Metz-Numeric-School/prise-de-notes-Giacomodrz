@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8951827e6e4a8dfb",
+        "id": "ef79d1d0845ecbb4",
         "type": "tabs",
         "children": [
           {
-            "id": "91593c04c6e2c76a",
+            "id": "6a03ee2c7051765c",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Cours/Cloud computing.md",
-                "staged": false
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Cloud computing)"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -168,36 +169,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91593c04c6e2c76a",
+  "active": "6a03ee2c7051765c",
   "lastOpenFiles": [
+    "Cours/Windows server avancé/DNS et DHCP.md",
+    "Sans titre.canvas",
+    "Cours/Windows client avancé/Cours 1.md",
     "Cours/Projet fin d'année/Un projet.md",
     "Cours/Projet fin d'année/Gestion de projet.md",
-    "Cours/Gestion de Parc/Gestion de Parc.md",
-    "Cours/Windows server avancé/DNS et DHCP.md",
     "Cours/Linux server/Cours 1.md",
-    "Cours/Windows client avancé/Cours 1.md",
-    "Cours/Linux server",
+    "Cours/Gestion de Parc/Gestion de Parc.md",
+    "Cours/droit juridique/Cours 1.md",
+    "Cours/Architecture réseau/Rajout d'un Switch L3 dans notre réseau.md",
+    "Cours/Architecture réseau/Procédure pour créer un réseau.md",
+    "Cours/Architecture réseau/Cours 1.md",
+    "Cours/cloud computing/cours 1.md",
+    "Cours/anglais/Pasted image 20241014091607.png",
+    "Cours/anglais/Exercice anglais.md",
     "Cours/anglais/Cours.md",
+    "Cours/Algo/Commande Git.md",
+    "Cours/Algo/Algo 23-09-2024.md",
+    "Pasted image 20241104132729.png",
+    "Cours/Linux server",
     "Cours/Windows Client avancé.md",
     "Cours/Windows client avancé",
     "Pasted image 20241105133200.png",
     "Pasted image 20241113153956.png",
-    "Pasted image 20241104132729.png",
-    "Cours/Architecture réseau/Rajout d'un Switch L3 dans notre réseau.md",
-    "Cours/Architecture réseau/Procédure pour créer un réseau.md",
-    "Cours/Architecture réseau/Cours 1.md",
-    "Cours/anglais/Exercice anglais.md",
-    "Cours/anglais/Pasted image 20241014091607.png",
     "Cours/Projet fin d'année",
     "Cours/Architecture réseau/Setup des terminaux.md",
-    "Sans titre.canvas",
     "Cours/Architecture réseau.md",
     "Cours/Architecture réseau",
     "2024-10-09.md",
     "Cours/droit juridique/Pasted image 20241009093638.png",
-    "Cours/Algo/Algo 23-09-2024.md",
-    "Cours/cloud computing/cours 1.md",
-    "Cours/droit juridique/Cours 1.md",
     "Cours/Windows server avancé",
     "Pasted image 20241009093643.png",
     "README.md",
@@ -208,10 +210,8 @@
     "Cours/anglais",
     "Sans titre/Sans titre.md",
     "Sans titre",
-    "Cours/Algo/Commande Git.md",
     "Cours/Gestion de Parc/Séance 2.md",
     "Veille/Ressources web.md",
-    "Algo - 2024-09-23.md",
     "Cours/Algo"
   ]
 }
