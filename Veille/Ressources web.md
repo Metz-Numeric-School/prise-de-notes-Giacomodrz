@@ -1,1 +1,0 @@
-- https://daily.dev/fr-fr
